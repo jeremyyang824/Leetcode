@@ -42,7 +42,9 @@
   <ItemGroup>
     <Compile Include="OJ002_AddTwoNumbers.cs" />
     <Compile Include="OJ003_LongestSubstring.cs" />
+    <Compile Include="OJ005_LongestPalindromicSubstring.cs" />
     <Compile Include="OJ004_MedianOfTwoSortedArrays.cs" />
+    <Compile Include="OJ006_ZigZagConversion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

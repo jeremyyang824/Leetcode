@@ -51,10 +51,12 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="OJ006_ZigZagConversionTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="OJ002_AddTwoNumbersTest.cs" />
     <Compile Include="OJ003_LongestSubstringTest.cs" />
     <Compile Include="OJ004_MedianOfTwoSortedArraysTest.cs" />
+    <Compile Include="OJ005_LongestPalindromicSubstringTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
