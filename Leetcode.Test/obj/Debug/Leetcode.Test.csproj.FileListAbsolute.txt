@@ -1,0 +1,7 @@
+D:\Project\Leetcode\Leetcode.Test\bin\Debug\Leetcode.Test.dll
+D:\Project\Leetcode\Leetcode.Test\bin\Debug\Leetcode.Test.pdb
+D:\Project\Leetcode\Leetcode.Test\bin\Debug\Leetcode.Core.dll
+D:\Project\Leetcode\Leetcode.Test\bin\Debug\Leetcode.Core.pdb
+D:\Project\Leetcode\Leetcode.Test\obj\Debug\Leetcode.Test.csprojResolveAssemblyReference.cache
+D:\Project\Leetcode\Leetcode.Test\obj\Debug\Leetcode.Test.dll
+D:\Project\Leetcode\Leetcode.Test\obj\Debug\Leetcode.Test.pdb
