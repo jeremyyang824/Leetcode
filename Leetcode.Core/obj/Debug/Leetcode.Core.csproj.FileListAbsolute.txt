@@ -3,3 +3,8 @@ D:\Project\Leetcode\Leetcode.Core\bin\Debug\Leetcode.Core.pdb
 D:\Project\Leetcode\Leetcode.Core\obj\Debug\Leetcode.Core.csprojResolveAssemblyReference.cache
 D:\Project\Leetcode\Leetcode.Core\obj\Debug\Leetcode.Core.dll
 D:\Project\Leetcode\Leetcode.Core\obj\Debug\Leetcode.Core.pdb
+D:\DotnetProject\Leetcode\Leetcode.Core\bin\Debug\Leetcode.Core.dll
+D:\DotnetProject\Leetcode\Leetcode.Core\bin\Debug\Leetcode.Core.pdb
+D:\DotnetProject\Leetcode\Leetcode.Core\obj\Debug\Leetcode.Core.csprojResolveAssemblyReference.cache
+D:\DotnetProject\Leetcode\Leetcode.Core\obj\Debug\Leetcode.Core.dll
+D:\DotnetProject\Leetcode\Leetcode.Core\obj\Debug\Leetcode.Core.pdb

@@ -57,6 +57,11 @@
     <Compile Include="OJ003_LongestSubstringTest.cs" />
     <Compile Include="OJ004_MedianOfTwoSortedArraysTest.cs" />
     <Compile Include="OJ005_LongestPalindromicSubstringTest.cs" />
+    <Compile Include="OJ001_TwoSumTest.cs" />
+    <Compile Include="OJ191_HammingWeightTest.cs" />
+    <Compile Include="OJ007_ReverseIntegerTest.cs" />
+    <Compile Include="OJ008_StringToIntegerTest.cs" />
+    <Compile Include="OJ009_PalindromeNumberTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">

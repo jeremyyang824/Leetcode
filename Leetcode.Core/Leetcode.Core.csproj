@@ -40,11 +40,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OJ001_TwoSum.cs" />
     <Compile Include="OJ002_AddTwoNumbers.cs" />
     <Compile Include="OJ003_LongestSubstring.cs" />
     <Compile Include="OJ005_LongestPalindromicSubstring.cs" />
     <Compile Include="OJ004_MedianOfTwoSortedArrays.cs" />
     <Compile Include="OJ006_ZigZagConversion.cs" />
+    <Compile Include="OJ007_ReverseInteger.cs" />
+    <Compile Include="OJ008_StringToInteger.cs" />
+    <Compile Include="OJ009_PalindromeNumber.cs" />
+    <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
