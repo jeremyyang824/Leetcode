@@ -51,6 +51,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Extra\EightQueensPuzzleTest.cs" />
     <Compile Include="OJ006_ZigZagConversionTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="OJ002_AddTwoNumbersTest.cs" />
@@ -62,6 +63,9 @@
     <Compile Include="OJ007_ReverseIntegerTest.cs" />
     <Compile Include="OJ008_StringToIntegerTest.cs" />
     <Compile Include="OJ009_PalindromeNumberTest.cs" />
+    <Compile Include="OJ010_RegularExpressionMatchingTest.cs" />
+    <Compile Include="OJ011_ContainerWithMostWaterTest.cs" />
+    <Compile Include="OJ012_IntegerToRomanTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
@@ -69,6 +73,7 @@
       <Name>Leetcode.Core</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
