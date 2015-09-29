@@ -66,6 +66,8 @@
     <Compile Include="OJ010_RegularExpressionMatchingTest.cs" />
     <Compile Include="OJ011_ContainerWithMostWaterTest.cs" />
     <Compile Include="OJ012_IntegerToRomanTest.cs" />
+    <Compile Include="OJ017_LetterCombinationsOfAPhoneNumberTest.cs" />
+    <Compile Include="OJ018_FourSumTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
