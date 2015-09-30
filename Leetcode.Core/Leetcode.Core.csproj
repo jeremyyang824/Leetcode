@@ -55,6 +55,8 @@
     <Compile Include="OJ012_IntegerToRoman.cs" />
     <Compile Include="OJ017_LetterCombinationsOfAPhoneNumber.cs" />
     <Compile Include="OJ018_FourSum.cs" />
+    <Compile Include="OJ019_RemoveNthNodeFromEndOfList.cs" />
+    <Compile Include="OJ020_ValidParentheses.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
