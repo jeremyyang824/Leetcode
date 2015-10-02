@@ -70,6 +70,10 @@
     <Compile Include="OJ013_RomanToIntegerTest.cs" />
     <Compile Include="OJ015_ThreeSumTest.cs" />
     <Compile Include="OJ016_ThreeSumClosestTest.cs" />
+    <Compile Include="OJ017_LetterCombinationsOfAPhoneNumberTest.cs" />
+    <Compile Include="OJ018_FourSumTest.cs" />
+    <Compile Include="OJ019_RemoveNthNodeFromEndOfListTest.cs" />
+    <Compile Include="OJ020_ValidParenthesesTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
