@@ -53,6 +53,10 @@
     <Compile Include="OJ010_RegularExpressionMatching.cs" />
     <Compile Include="OJ011_ContainerWithMostWater.cs" />
     <Compile Include="OJ012_IntegerToRoman.cs" />
+    <Compile Include="OJ013_RomanToInteger.cs" />
+    <Compile Include="OJ014_LongestCommonPrefix.cs" />
+    <Compile Include="OJ015_ThreeSum.cs" />
+    <Compile Include="OJ016_ThreeSumClosest.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

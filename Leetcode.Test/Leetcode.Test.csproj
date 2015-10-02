@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="Extra\EightQueensPuzzleTest.cs" />
     <Compile Include="OJ006_ZigZagConversionTest.cs" />
+    <Compile Include="OJ014_LongestCommonPrefixTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="OJ002_AddTwoNumbersTest.cs" />
     <Compile Include="OJ003_LongestSubstringTest.cs" />
@@ -66,6 +67,9 @@
     <Compile Include="OJ010_RegularExpressionMatchingTest.cs" />
     <Compile Include="OJ011_ContainerWithMostWaterTest.cs" />
     <Compile Include="OJ012_IntegerToRomanTest.cs" />
+    <Compile Include="OJ013_RomanToIntegerTest.cs" />
+    <Compile Include="OJ015_ThreeSumTest.cs" />
+    <Compile Include="OJ016_ThreeSumClosestTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
