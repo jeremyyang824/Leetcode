@@ -61,7 +61,16 @@
     <Compile Include="OJ018_FourSum.cs" />
     <Compile Include="OJ019_RemoveNthNodeFromEndOfList.cs" />
     <Compile Include="OJ020_ValidParentheses.cs" />
+    <Compile Include="OJ021_MergeTwoSortedLists.cs" />
+    <Compile Include="OJ022_GenerateParentheses.cs" />
+    <Compile Include="OJ023_MergeKSortedLists.cs" />
+    <Compile Include="OJ024_SwapNodesInPairs.cs" />
+    <Compile Include="OJ025_ReverseNodesInKGroup.cs" />
+    <Compile Include="OJ026_RemoveDuplicatesFromSortedArray.cs" />
+    <Compile Include="OJ027_RemoveElement.cs" />
+    <Compile Include="OJ028_ImplementStr.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
+    <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

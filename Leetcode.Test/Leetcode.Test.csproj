@@ -74,6 +74,15 @@
     <Compile Include="OJ018_FourSumTest.cs" />
     <Compile Include="OJ019_RemoveNthNodeFromEndOfListTest.cs" />
     <Compile Include="OJ020_ValidParenthesesTest.cs" />
+    <Compile Include="OJ021_MergeTwoSortedListsTest.cs" />
+    <Compile Include="OJ022_GenerateParenthesesTest.cs" />
+    <Compile Include="OJ023_MergeKSortedListsTest.cs" />
+    <Compile Include="OJ024_SwapNodesInPairsTest.cs" />
+    <Compile Include="OJ025_ReverseNodesInKGroupTest.cs" />
+    <Compile Include="OJ206_ReverseLinkedListTest.cs" />
+    <Compile Include="OJ026_RemoveDuplicatesFromSortedArrayTest.cs" />
+    <Compile Include="OJ027_RemoveElementTest.cs" />
+    <Compile Include="OJ028_ImplementStrTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
