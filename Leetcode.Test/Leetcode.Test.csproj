@@ -83,6 +83,8 @@
     <Compile Include="OJ026_RemoveDuplicatesFromSortedArrayTest.cs" />
     <Compile Include="OJ027_RemoveElementTest.cs" />
     <Compile Include="OJ028_ImplementStrTest.cs" />
+    <Compile Include="OJ029_DivideTwoIntegersTest.cs" />
+    <Compile Include="OJ030_SubstringWithConcatenationOfAllWordsTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
