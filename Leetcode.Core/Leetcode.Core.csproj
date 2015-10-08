@@ -71,6 +71,7 @@
     <Compile Include="OJ028_ImplementStr.cs" />
     <Compile Include="OJ029_DivideTwoIntegers.cs" />
     <Compile Include="OJ030_SubstringWithConcatenationOfAllWords.cs" />
+    <Compile Include="OJ031_NextPermutation.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -85,6 +85,7 @@
     <Compile Include="OJ028_ImplementStrTest.cs" />
     <Compile Include="OJ029_DivideTwoIntegersTest.cs" />
     <Compile Include="OJ030_SubstringWithConcatenationOfAllWordsTest.cs" />
+    <Compile Include="OJ031_NextPermutationTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
