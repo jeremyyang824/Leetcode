@@ -87,6 +87,7 @@
     <Compile Include="OJ030_SubstringWithConcatenationOfAllWordsTest.cs" />
     <Compile Include="OJ031_NextPermutationTest.cs" />
     <Compile Include="OJ032_LongestValidParenthesesTest.cs" />
+    <Compile Include="OJ033_SearchInRotatedSortedArrayTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
