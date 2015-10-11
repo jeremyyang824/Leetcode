@@ -90,6 +90,8 @@
     <Compile Include="OJ033_SearchInRotatedSortedArrayTest.cs" />
     <Compile Include="OJ034_SearchForARangeTest.cs" />
     <Compile Include="OJ035_SearchInsertPositionTest.cs" />
+    <Compile Include="OJ036_ValidSudokuTest.cs" />
+    <Compile Include="OJ037_SudokuSolverTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">

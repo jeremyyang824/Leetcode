@@ -76,6 +76,8 @@
     <Compile Include="OJ033_SearchInRotatedSortedArray.cs" />
     <Compile Include="OJ034_SearchForARange.cs" />
     <Compile Include="OJ035_SearchInsertPosition.cs" />
+    <Compile Include="OJ036_ValidSudoku.cs" />
+    <Compile Include="OJ037_SudokuSolver.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
