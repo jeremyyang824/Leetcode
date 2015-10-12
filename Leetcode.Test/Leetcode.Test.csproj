@@ -92,6 +92,9 @@
     <Compile Include="OJ035_SearchInsertPositionTest.cs" />
     <Compile Include="OJ036_ValidSudokuTest.cs" />
     <Compile Include="OJ037_SudokuSolverTest.cs" />
+    <Compile Include="OJ038_CountAndSayTest.cs" />
+    <Compile Include="OJ039_CombinationSumTest.cs" />
+    <Compile Include="OJ040_CombinationSumIITest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
