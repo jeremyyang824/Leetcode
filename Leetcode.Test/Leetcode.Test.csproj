@@ -95,6 +95,8 @@
     <Compile Include="OJ038_CountAndSayTest.cs" />
     <Compile Include="OJ039_CombinationSumTest.cs" />
     <Compile Include="OJ040_CombinationSumIITest.cs" />
+    <Compile Include="OJ041_FirstMissingPositiveTest.cs" />
+    <Compile Include="OJ042_TrappingRainWaterTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
