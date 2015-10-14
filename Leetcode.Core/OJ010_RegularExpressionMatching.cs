@@ -50,7 +50,7 @@ namespace Leetcode.Core
                     strIdx++;
                 }
 
-                return isMatch(str, strIdx, patten, pattenIdx + 2);
+                return isMatch(str, strIdx, patten, pattenIdx + 2); //*匹配0个字符
             }
             else
             {

@@ -79,10 +79,12 @@
     <Compile Include="OJ036_ValidSudoku.cs" />
     <Compile Include="OJ037_SudokuSolver.cs" />
     <Compile Include="OJ038_CountAndSay.cs" />
+    <Compile Include="OJ043_MultiplyStrings.cs" />
     <Compile Include="OJ039_CombinationSum.cs" />
     <Compile Include="OJ040_CombinationSumII.cs" />
     <Compile Include="OJ041_FirstMissingPositive.cs" />
     <Compile Include="OJ042_TrappingRainWater.cs" />
+    <Compile Include="OJ044_WildcardMatching.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

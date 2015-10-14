@@ -76,5 +76,12 @@ namespace Leetcode.Test
             bool result = new OJ010_RegularExpressionMatching().IsMatch("caaaaaaaaaaaaaabbbbbbbbbbbbbd", "caa*aaabb*bbd");
             Assert.AreEqual(true, result);
         }
+
+        [TestMethod]
+        public void OJ010_RegularExpressionMatchingTest11()
+        {
+            bool result = new OJ010_RegularExpressionMatching().IsMatch("bbbba", ".*a*a");
+            Assert.AreEqual(true, result);
+        }
     }
 }
