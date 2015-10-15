@@ -99,6 +99,8 @@
     <Compile Include="OJ042_TrappingRainWaterTest.cs" />
     <Compile Include="OJ043_MultiplyStringsTest.cs" />
     <Compile Include="OJ044_WildcardMatchingTest.cs" />
+    <Compile Include="OJ055_JumpGameTest.cs" />
+    <Compile Include="OJ045_JumpGameIITest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">

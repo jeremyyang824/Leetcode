@@ -26,6 +26,7 @@ namespace Leetcode.Core
      */
     public class OJ044_WildcardMatching
     {
+        /* Time Limit Exceeded
         public bool IsMatch(string s, string p)
         {
             if (s == null || p == null)
@@ -43,8 +44,7 @@ namespace Leetcode.Core
 
             if (pattenIdx < plen && patten[pattenIdx] == '*')
             {
-                char p = patten[pattenIdx];
-                while (pattenIdx < plen && p == '*')
+                while (pattenIdx < plen && patten[pattenIdx] == '*')
                     pattenIdx++;
 
                 while (strIdx < slen)
@@ -58,10 +58,48 @@ namespace Leetcode.Core
             }
             else
             {
-                if (strIdx < slen&& pattenIdx < plen && (patten[pattenIdx] == '?' || str[strIdx] == patten[pattenIdx]))
+                if (strIdx < slen && pattenIdx < plen && (patten[pattenIdx] == '?' || str[strIdx] == patten[pattenIdx]))
                     return this.isMatch(str, strIdx + 1, patten, pattenIdx + 1);
                 return false;
             }
+        }
+        */
+
+        public bool IsMatch(string s, string p)
+        {
+            if (s == null || p == null)
+                return false;
+
+            int si = 0;
+            int pi = 0;
+
+            int sStar = -1;
+            int pStar = -1;
+            while (si < s.Length)
+            {
+                if (pi < p.Length && (p[pi] == '?' || s[si] == p[pi]))
+                {
+                    si++;
+                    pi++;
+                }
+                else if (pi < p.Length && p[pi] == '*')
+                {
+                    sStar = si;
+                    pStar = pi;
+                    pi++;
+                }
+                else if (pStar != -1)
+                {
+                    si = ++sStar;
+                    pi = pStar + 1;
+                }
+                else
+                    return false;
+            }
+
+            while (pi < p.Length && p[pi] == '*')
+                pi++;
+            return pi == p.Length;
         }
     }
 }

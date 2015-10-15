@@ -85,6 +85,8 @@
     <Compile Include="OJ041_FirstMissingPositive.cs" />
     <Compile Include="OJ042_TrappingRainWater.cs" />
     <Compile Include="OJ044_WildcardMatching.cs" />
+    <Compile Include="OJ045_JumpGameII.cs" />
+    <Compile Include="OJ055_JumpGame.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
