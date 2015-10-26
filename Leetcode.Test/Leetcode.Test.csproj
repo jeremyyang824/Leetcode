@@ -51,6 +51,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Common\ArrayAssert.cs" />
     <Compile Include="Extra\EightQueensPuzzleTest.cs" />
     <Compile Include="OJ006_ZigZagConversionTest.cs" />
     <Compile Include="OJ014_LongestCommonPrefixTest.cs" />
@@ -101,6 +102,8 @@
     <Compile Include="OJ044_WildcardMatchingTest.cs" />
     <Compile Include="OJ055_JumpGameTest.cs" />
     <Compile Include="OJ045_JumpGameIITest.cs" />
+    <Compile Include="OJ046_PermutationsTest.cs" />
+    <Compile Include="OJ047_PermutationsIITest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
