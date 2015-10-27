@@ -104,6 +104,8 @@
     <Compile Include="OJ045_JumpGameIITest.cs" />
     <Compile Include="OJ046_PermutationsTest.cs" />
     <Compile Include="OJ047_PermutationsIITest.cs" />
+    <Compile Include="OJ048_RotateImageTest.cs" />
+    <Compile Include="OJ049_GroupAnagramsTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">

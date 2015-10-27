@@ -32,7 +32,7 @@ namespace Leetcode.Core
 
             for (int i = pos; i < nums.Length; i++)
             {
-                if (isSwap(nums, pos, i))   //?
+                if (isSwap(nums, pos, i))
                 {
                     this.swap(nums, pos, i);
                     this.permute(nums, pos + 1, result);

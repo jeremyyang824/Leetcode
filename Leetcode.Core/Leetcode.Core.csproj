@@ -88,6 +88,8 @@
     <Compile Include="OJ045_JumpGameII.cs" />
     <Compile Include="OJ046_Permutations.cs" />
     <Compile Include="OJ047_PermutationsII.cs" />
+    <Compile Include="OJ048_RotateImage.cs" />
+    <Compile Include="OJ049_GroupAnagrams.cs" />
     <Compile Include="OJ055_JumpGame.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
