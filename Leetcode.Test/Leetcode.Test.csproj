@@ -55,6 +55,7 @@
     <Compile Include="Extra\EightQueensPuzzleTest.cs" />
     <Compile Include="OJ006_ZigZagConversionTest.cs" />
     <Compile Include="OJ014_LongestCommonPrefixTest.cs" />
+    <Compile Include="OJ050_PowTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="OJ002_AddTwoNumbersTest.cs" />
     <Compile Include="OJ003_LongestSubstringTest.cs" />
