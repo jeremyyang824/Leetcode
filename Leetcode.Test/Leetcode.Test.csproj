@@ -107,6 +107,8 @@
     <Compile Include="OJ047_PermutationsIITest.cs" />
     <Compile Include="OJ048_RotateImageTest.cs" />
     <Compile Include="OJ049_GroupAnagramsTest.cs" />
+    <Compile Include="OJ051_N_QueensTest.cs" />
+    <Compile Include="OJ052_N-QueensIITest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
