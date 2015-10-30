@@ -109,6 +109,8 @@
     <Compile Include="OJ049_GroupAnagramsTest.cs" />
     <Compile Include="OJ051_N_QueensTest.cs" />
     <Compile Include="OJ052_N-QueensIITest.cs" />
+    <Compile Include="OJ053_MaximumSubarrayTest.cs" />
+    <Compile Include="OJ054_SpiralMatrixTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
