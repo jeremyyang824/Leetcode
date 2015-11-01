@@ -111,6 +111,9 @@
     <Compile Include="OJ052_N-QueensIITest.cs" />
     <Compile Include="OJ053_MaximumSubarrayTest.cs" />
     <Compile Include="OJ054_SpiralMatrixTest.cs" />
+    <Compile Include="OJ056_MergeIntervalsTest.cs" />
+    <Compile Include="OJ057_InsertIntervalTest.cs" />
+    <Compile Include="OJ058_LengthOfLastWordTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">

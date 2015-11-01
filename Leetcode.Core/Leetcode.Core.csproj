@@ -96,6 +96,9 @@
     <Compile Include="OJ053_MaximumSubarray.cs" />
     <Compile Include="OJ054_SpiralMatrix.cs" />
     <Compile Include="OJ055_JumpGame.cs" />
+    <Compile Include="OJ056_MergeIntervals.cs" />
+    <Compile Include="OJ057_InsertInterval.cs" />
+    <Compile Include="OJ058_LengthOfLastWord.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
