@@ -114,6 +114,8 @@
     <Compile Include="OJ056_MergeIntervalsTest.cs" />
     <Compile Include="OJ057_InsertIntervalTest.cs" />
     <Compile Include="OJ058_LengthOfLastWordTest.cs" />
+    <Compile Include="OJ059_SpiralMatrixIITest.cs" />
+    <Compile Include="OJ060_PermutationSequenceTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
