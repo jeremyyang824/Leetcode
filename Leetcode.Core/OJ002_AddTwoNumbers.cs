@@ -57,4 +57,14 @@ namespace Leetcode.Core
         public ListNode next;
         public ListNode(int x) { val = x; }
     }
+
+    public static class ListNodeHelper
+    {
+        public static ListNode Next(this ListNode prev, int x)
+        {
+            ListNode node = new ListNode(x);
+            prev.next = node;
+            return node;
+        }
+    }
 }
