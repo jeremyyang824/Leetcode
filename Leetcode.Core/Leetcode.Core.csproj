@@ -103,6 +103,8 @@
     <Compile Include="OJ060_PermutationSequence.cs" />
     <Compile Include="OJ061_RotateList.cs" />
     <Compile Include="OJ062_UniquePaths.cs" />
+    <Compile Include="OJ063_UniquePathsII.cs" />
+    <Compile Include="OJ064_MinimumPathSum.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

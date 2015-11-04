@@ -56,6 +56,7 @@
     <Compile Include="OJ006_ZigZagConversionTest.cs" />
     <Compile Include="OJ014_LongestCommonPrefixTest.cs" />
     <Compile Include="OJ050_PowTest.cs" />
+    <Compile Include="OJ064_MinimumPathSumTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="OJ002_AddTwoNumbersTest.cs" />
     <Compile Include="OJ003_LongestSubstringTest.cs" />
@@ -118,6 +119,7 @@
     <Compile Include="OJ060_PermutationSequenceTest.cs" />
     <Compile Include="OJ061_RotateListTest.cs" />
     <Compile Include="OJ062_UniquePathsTest.cs" />
+    <Compile Include="OJ063_UniquePathsIITest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
