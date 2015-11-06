@@ -107,6 +107,8 @@
     <Compile Include="OJ064_MinimumPathSum.cs" />
     <Compile Include="OJ065_ValidNumber.cs" />
     <Compile Include="OJ066_PlusOne.cs" />
+    <Compile Include="OJ067_AddBinary.cs" />
+    <Compile Include="OJ068_TextJustification.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

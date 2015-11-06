@@ -122,6 +122,8 @@
     <Compile Include="OJ063_UniquePathsIITest.cs" />
     <Compile Include="OJ065_ValidNumberTest.cs" />
     <Compile Include="OJ066_PlusOneTest.cs" />
+    <Compile Include="OJ067_AddBinaryTest.cs" />
+    <Compile Include="OJ068_TextJustificationTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
