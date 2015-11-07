@@ -124,6 +124,8 @@
     <Compile Include="OJ066_PlusOneTest.cs" />
     <Compile Include="OJ067_AddBinaryTest.cs" />
     <Compile Include="OJ068_TextJustificationTest.cs" />
+    <Compile Include="OJ069_SqrtXTest.cs" />
+    <Compile Include="OJ070_ClimbingStairsTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
