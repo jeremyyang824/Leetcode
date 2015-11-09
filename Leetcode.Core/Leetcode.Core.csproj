@@ -111,6 +111,8 @@
     <Compile Include="OJ068_TextJustification.cs" />
     <Compile Include="OJ069_SqrtX.cs" />
     <Compile Include="OJ070_ClimbingStairs.cs" />
+    <Compile Include="OJ071_SimplifyPath.cs" />
+    <Compile Include="OJ072_EditDistance.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -126,6 +126,8 @@
     <Compile Include="OJ068_TextJustificationTest.cs" />
     <Compile Include="OJ069_SqrtXTest.cs" />
     <Compile Include="OJ070_ClimbingStairsTest.cs" />
+    <Compile Include="OJ071_SimplifyPathTest.cs" />
+    <Compile Include="OJ072_EditDistanceTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
