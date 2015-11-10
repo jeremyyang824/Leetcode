@@ -128,6 +128,8 @@
     <Compile Include="OJ070_ClimbingStairsTest.cs" />
     <Compile Include="OJ071_SimplifyPathTest.cs" />
     <Compile Include="OJ072_EditDistanceTest.cs" />
+    <Compile Include="OJ073_SetMatrixZeroesTest.cs" />
+    <Compile Include="OJ074_Search2DMatrixTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
