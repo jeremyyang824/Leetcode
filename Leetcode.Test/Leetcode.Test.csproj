@@ -130,6 +130,8 @@
     <Compile Include="OJ072_EditDistanceTest.cs" />
     <Compile Include="OJ073_SetMatrixZeroesTest.cs" />
     <Compile Include="OJ074_Search2DMatrixTest.cs" />
+    <Compile Include="OJ075_SortColorsTest.cs" />
+    <Compile Include="OJ076_MinimumWindowSubstringTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
