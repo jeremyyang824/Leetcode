@@ -117,6 +117,8 @@
     <Compile Include="OJ074_Search2DMatrix.cs" />
     <Compile Include="OJ075_SortColors.cs" />
     <Compile Include="OJ076_MinimumWindowSubstring.cs" />
+    <Compile Include="OJ077_Combinations.cs" />
+    <Compile Include="OJ078_Subsets.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
