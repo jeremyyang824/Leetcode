@@ -119,6 +119,8 @@
     <Compile Include="OJ076_MinimumWindowSubstring.cs" />
     <Compile Include="OJ077_Combinations.cs" />
     <Compile Include="OJ078_Subsets.cs" />
+    <Compile Include="OJ079_WordSearch.cs" />
+    <Compile Include="OJ080_RemoveDuplicatesfromSortedArrayII.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

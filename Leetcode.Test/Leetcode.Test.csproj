@@ -134,6 +134,8 @@
     <Compile Include="OJ076_MinimumWindowSubstringTest.cs" />
     <Compile Include="OJ077_CombinationsTest.cs" />
     <Compile Include="OJ078_SubsetsTest.cs" />
+    <Compile Include="OJ079_WordSearchTest.cs" />
+    <Compile Include="OJ080_RemoveDuplicatesfromSortedArrayIITest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
