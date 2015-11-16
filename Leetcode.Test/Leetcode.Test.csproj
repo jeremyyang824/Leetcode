@@ -136,6 +136,8 @@
     <Compile Include="OJ078_SubsetsTest.cs" />
     <Compile Include="OJ079_WordSearchTest.cs" />
     <Compile Include="OJ080_RemoveDuplicatesfromSortedArrayIITest.cs" />
+    <Compile Include="OJ081_SearchInRotatedSortedArrayIITest.cs" />
+    <Compile Include="OJ083_RemoveDuplicatesFromSortedListTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">

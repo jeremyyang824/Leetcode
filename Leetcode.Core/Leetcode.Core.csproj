@@ -121,6 +121,8 @@
     <Compile Include="OJ078_Subsets.cs" />
     <Compile Include="OJ079_WordSearch.cs" />
     <Compile Include="OJ080_RemoveDuplicatesfromSortedArrayII.cs" />
+    <Compile Include="OJ081_SearchInRotatedSortedArrayII.cs" />
+    <Compile Include="OJ083_RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
