@@ -138,6 +138,8 @@
     <Compile Include="OJ080_RemoveDuplicatesfromSortedArrayIITest.cs" />
     <Compile Include="OJ081_SearchInRotatedSortedArrayIITest.cs" />
     <Compile Include="OJ083_RemoveDuplicatesFromSortedListTest.cs" />
+    <Compile Include="OJ082_RemoveDuplicatesFromSortedListIITest.cs" />
+    <Compile Include="OJ084_LargestRectangleInHistogramTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
