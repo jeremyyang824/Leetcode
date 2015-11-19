@@ -142,6 +142,8 @@
     <Compile Include="OJ084_LargestRectangleInHistogramTest.cs" />
     <Compile Include="OJ085_MaximalRectangleTest.cs" />
     <Compile Include="OJ086_PartitionListTest.cs" />
+    <Compile Include="OJ087_ScrambleStringTest.cs" />
+    <Compile Include="OJ088_MergeSortedArrayTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
