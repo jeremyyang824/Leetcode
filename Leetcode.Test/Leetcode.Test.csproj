@@ -144,6 +144,8 @@
     <Compile Include="OJ086_PartitionListTest.cs" />
     <Compile Include="OJ087_ScrambleStringTest.cs" />
     <Compile Include="OJ088_MergeSortedArrayTest.cs" />
+    <Compile Include="OJ089_GrayCodeTest.cs" />
+    <Compile Include="OJ090_SubsetsIITest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
