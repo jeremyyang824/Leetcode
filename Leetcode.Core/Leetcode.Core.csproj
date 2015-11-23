@@ -131,6 +131,8 @@
     <Compile Include="OJ088_MergeSortedArray.cs" />
     <Compile Include="OJ089_GrayCode.cs" />
     <Compile Include="OJ090_SubsetsII.cs" />
+    <Compile Include="OJ091_DecodeWays.cs" />
+    <Compile Include="OJ092_ReverseLinkedListII.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
