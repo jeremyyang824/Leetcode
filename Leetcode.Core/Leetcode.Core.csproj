@@ -133,6 +133,8 @@
     <Compile Include="OJ090_SubsetsII.cs" />
     <Compile Include="OJ091_DecodeWays.cs" />
     <Compile Include="OJ092_ReverseLinkedListII.cs" />
+    <Compile Include="OJ093_RestoreIPAddresses.cs" />
+    <Compile Include="OJ094_BinaryTreeInorderTraversal.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
