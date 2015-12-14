@@ -150,6 +150,8 @@
     <Compile Include="OJ092_ReverseLinkedListIITest.cs" />
     <Compile Include="OJ093_RestoreIPAddressesTest.cs" />
     <Compile Include="OJ094_BinaryTreeInorderTraversalTest.cs" />
+    <Compile Include="OJ097_InterleavingStringTest.cs" />
+    <Compile Include="OJ098_ValidateBinarySearchTreeTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
