@@ -19,5 +19,15 @@ namespace Leetcode.Test
             bool result = new OJ098_ValidateBinarySearchTree().IsValidBST(root);
             Assert.AreEqual(true, result);
         }
+
+        [TestMethod]
+        public void OJ098_ValidateBinarySearchTreeTest2()
+        {
+            TreeNode root = new TreeNode(1);
+            root.right = new TreeNode(1);
+
+            bool result = new OJ098_ValidateBinarySearchTree().IsValidBST(root);
+            Assert.AreEqual(false, result);
+        }
     }
 }

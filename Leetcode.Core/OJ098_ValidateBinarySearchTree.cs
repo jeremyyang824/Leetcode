@@ -26,6 +26,7 @@ namespace Leetcode.Core
             if (root.left == null && root.right == null)
                 return true;
 
+            this.inOrderTraversal(root);
             for (int i = 1; i < list.Count; i++)
             {
                 if (list[i] <= list[i - 1]) 
