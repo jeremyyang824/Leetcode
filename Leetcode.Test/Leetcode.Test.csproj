@@ -156,6 +156,8 @@
     <Compile Include="OJ095_UniqueBinarySearchTreesIITest.cs" />
     <Compile Include="OJ099_RecoverBinarySearchTreeTest.cs" />
     <Compile Include="OJ100_SameTreeTest.cs" />
+    <Compile Include="OJ101_SymmetricTreeTest.cs" />
+    <Compile Include="OJ102_BinaryTreeLevelOrderTraversalTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
