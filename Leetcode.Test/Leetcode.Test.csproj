@@ -162,6 +162,8 @@
     <Compile Include="OJ104_MaximumDepthOfBinaryTreeTest.cs" />
     <Compile Include="OJ105_ConstructBinaryTreeFromPreorderAndInorderTraversalTest.cs" />
     <Compile Include="OJ106_ConstructBinaryTreeFromInorderAndPostorderTraversalTest.cs" />
+    <Compile Include="OJ107_BinaryTreeLevelOrderTraversalIITest.cs" />
+    <Compile Include="OJ108_ConvertSortedArrayToBinarySearchTreeTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">

@@ -147,6 +147,8 @@
     <Compile Include="OJ104_MaximumDepthOfBinaryTree.cs" />
     <Compile Include="OJ105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cs" />
     <Compile Include="OJ106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cs" />
+    <Compile Include="OJ107_BinaryTreeLevelOrderTraversalII.cs" />
+    <Compile Include="OJ108_ConvertSortedArrayToBinarySearchTree.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
