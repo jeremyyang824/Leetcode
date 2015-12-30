@@ -166,6 +166,8 @@
     <Compile Include="OJ108_ConvertSortedArrayToBinarySearchTreeTest.cs" />
     <Compile Include="OJ109_ConvertSortedListToBinarySearchTreeTest.cs" />
     <Compile Include="OJ110_BalancedBinaryTreeTest.cs" />
+    <Compile Include="OJ111_MinimumDepthOfBinaryTreeTest.cs" />
+    <Compile Include="OJ112_PathSumTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
