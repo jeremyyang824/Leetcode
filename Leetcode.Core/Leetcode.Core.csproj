@@ -155,6 +155,8 @@
     <Compile Include="OJ112_PathSum.cs" />
     <Compile Include="OJ113_PathSumII.cs" />
     <Compile Include="OJ114_FlattenBinaryTreeToLinkedList.cs" />
+    <Compile Include="OJ115_DistinctSubsequences.cs" />
+    <Compile Include="OJ116_PopulatingNextRightPointersInEachNode.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
