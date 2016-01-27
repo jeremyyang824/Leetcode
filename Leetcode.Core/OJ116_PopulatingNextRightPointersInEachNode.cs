@@ -46,8 +46,6 @@ namespace Leetcode.Core
 
             connect(root.left);
             connect(root.right);
-
-            return;
         }
     }
 
@@ -58,9 +56,14 @@ namespace Leetcode.Core
         public TreeLinkNode right;
         public TreeLinkNode next;
 
-        TreeLinkNode(int x)
+        public TreeLinkNode(int x)
         {
             val = x;
+        }
+
+        public override string ToString()
+        {
+            return val.ToString();
         }
     }
 }
