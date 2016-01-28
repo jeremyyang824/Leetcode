@@ -172,6 +172,8 @@
     <Compile Include="OJ114_FlattenBinaryTreeToLinkedListTest.cs" />
     <Compile Include="OJ115_DistinctSubsequencesTest.cs" />
     <Compile Include="OJ117_PopulatingNextRightPointersInEachNodeIITest.cs" />
+    <Compile Include="OJ118_PascalsTriangleTest.cs" />
+    <Compile Include="OJ119_PascalsTriangleIITest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
