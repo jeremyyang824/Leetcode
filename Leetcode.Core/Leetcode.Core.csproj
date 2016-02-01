@@ -160,6 +160,7 @@
     <Compile Include="OJ117_PopulatingNextRightPointersInEachNodeII.cs" />
     <Compile Include="OJ118_PascalsTriangle.cs" />
     <Compile Include="OJ119_PascalsTriangleII.cs" />
+    <Compile Include="OJ120_Triangle.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
