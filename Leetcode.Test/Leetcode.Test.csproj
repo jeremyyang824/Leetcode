@@ -59,6 +59,8 @@
     <Compile Include="OJ064_MinimumPathSumTest.cs" />
     <Compile Include="OJ097_InterleavingStringTest.cs" />
     <Compile Include="OJ098_ValidateBinarySearchTreeTest.cs" />
+    <Compile Include="OJ122_BestTimeToBuyAndSellStockIITest.cs" />
+    <Compile Include="OJ123_BestTimeToBuyAndSellStockIIITest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="OJ002_AddTwoNumbersTest.cs" />
     <Compile Include="OJ003_LongestSubstringTest.cs" />

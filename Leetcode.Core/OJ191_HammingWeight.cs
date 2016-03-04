@@ -15,7 +15,7 @@ namespace Leetcode.Core
         {
             int count;
             for (count = 0; n > 0; count++)
-                n &= n - 1;
+                n &= n - 1; //每次擦除最后一个1（1后面可能有任意多个0）
             return count;
         }
     }
