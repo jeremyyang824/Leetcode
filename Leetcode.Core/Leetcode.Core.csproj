@@ -164,6 +164,7 @@
     <Compile Include="OJ121_BestTimeToBuyAndSellStock.cs" />
     <Compile Include="OJ122_BestTimeToBuyAndSellStockII.cs" />
     <Compile Include="OJ123_BestTimeToBuyAndSellStockIII.cs" />
+    <Compile Include="OJ124_BinaryTreeMaximumPathSum.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
