@@ -179,6 +179,7 @@
     <Compile Include="OJ120_TriangleTest.cs" />
     <Compile Include="OJ121_BestTimeToBuyAndSellStockTest.cs" />
     <Compile Include="OJ124_BinaryTreeMaximumPathSumTest.cs" />
+    <Compile Include="OJ125_ValidPalindromeTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
