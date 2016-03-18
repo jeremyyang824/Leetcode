@@ -15,7 +15,9 @@ namespace Leetcode.Core
     public class OJ072_EditDistance
     {
         /*
-         * TERMINATION: D(N, M)
+         * i表示当前字符串A的下标；j表示当前字符串B的下标
+         * D[i, j] 来表示A[1,...i] B[1,...j] 之间的最少编辑操作数
+         * 那么D(N, M)：
          * D(i, 0) = i
          * D(0, j) = j
          * D(i, j) = Min{

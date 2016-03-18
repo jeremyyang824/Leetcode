@@ -61,6 +61,7 @@
     <Compile Include="OJ098_ValidateBinarySearchTreeTest.cs" />
     <Compile Include="OJ122_BestTimeToBuyAndSellStockIITest.cs" />
     <Compile Include="OJ123_BestTimeToBuyAndSellStockIIITest.cs" />
+    <Compile Include="OJ127_WordLadderTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="OJ002_AddTwoNumbersTest.cs" />
     <Compile Include="OJ003_LongestSubstringTest.cs" />
