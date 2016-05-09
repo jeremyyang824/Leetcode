@@ -58,7 +58,7 @@ namespace Leetcode.Core
                         {
                             //找到新的路径节点
                             queue.Enqueue(new WordNode(newWord, current.NumSteps + 1));
-                            wordList.Remove(newWord);
+                            //wordList.Remove(newWord);
                         }
 
                         arr[i] = temp;  //换回替换的字符！

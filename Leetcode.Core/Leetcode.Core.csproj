@@ -166,7 +166,11 @@
     <Compile Include="OJ123_BestTimeToBuyAndSellStockIII.cs" />
     <Compile Include="OJ124_BinaryTreeMaximumPathSum.cs" />
     <Compile Include="OJ125_ValidPalindrome.cs" />
+    <Compile Include="OJ126_WordLadderII.cs" />
     <Compile Include="OJ127_WordLadder.cs" />
+    <Compile Include="OJ128_LongestConsecutiveSequence.cs" />
+    <Compile Include="OJ129_SumRootToLeafNumbers.cs" />
+    <Compile Include="OJ130_SurroundedRegions.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
