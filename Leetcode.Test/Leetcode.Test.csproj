@@ -185,6 +185,7 @@
     <Compile Include="OJ124_BinaryTreeMaximumPathSumTest.cs" />
     <Compile Include="OJ125_ValidPalindromeTest.cs" />
     <Compile Include="OJ130_SurroundedRegionsTest.cs" />
+    <Compile Include="OJ131_PalindromePartitioningTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
