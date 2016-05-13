@@ -12,7 +12,7 @@ namespace Leetcode.Test
         [TestMethod]
         public void OJ131_PalindromePartitioningTest1()
         {
-            IList<IList<string>> result = new OJ131_PalindromePartitioning().Partition("aab");
+            IList<IList<string>> result = new OJ131_PalindromePartitioning().Partition2("aab");
             ArrayAssert.AreEqual(new string[] { "aa", "b" }, result[1].ToArray());
             ArrayAssert.AreEqual(new string[] { "a", "a", "b" }, result[0].ToArray());
         }

@@ -172,6 +172,7 @@
     <Compile Include="OJ129_SumRootToLeafNumbers.cs" />
     <Compile Include="OJ130_SurroundedRegions.cs" />
     <Compile Include="OJ131_PalindromePartitioning.cs" />
+    <Compile Include="OJ132_PalindromePartitioningII.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
