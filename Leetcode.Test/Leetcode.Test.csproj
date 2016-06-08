@@ -187,6 +187,8 @@
     <Compile Include="OJ130_SurroundedRegionsTest.cs" />
     <Compile Include="OJ131_PalindromePartitioningTest.cs" />
     <Compile Include="OJ132_PalindromePartitioningIITest.cs" />
+    <Compile Include="OJ136_SingleNumberTest.cs" />
+    <Compile Include="OJ137_SingleNumberIITest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
