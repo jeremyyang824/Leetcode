@@ -178,6 +178,9 @@
     <Compile Include="OJ135_Candy.cs" />
     <Compile Include="OJ136_SingleNumber.cs" />
     <Compile Include="OJ137_SingleNumberII.cs" />
+    <Compile Include="OJ138_CopyListWithRandomPointer.cs" />
+    <Compile Include="OJ139_WordBreak.cs" />
+    <Compile Include="OJ140_WordBreakII.cs" />
     <Compile Include="OJ191_HammingWeight.cs" />
     <Compile Include="OJ206_ReverseLinkedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

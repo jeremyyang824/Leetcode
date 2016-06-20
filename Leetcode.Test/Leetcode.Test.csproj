@@ -189,6 +189,8 @@
     <Compile Include="OJ132_PalindromePartitioningIITest.cs" />
     <Compile Include="OJ136_SingleNumberTest.cs" />
     <Compile Include="OJ137_SingleNumberIITest.cs" />
+    <Compile Include="OJ139_WordBreakTest.cs" />
+    <Compile Include="OJ140_WordBreakIITest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Leetcode.Core\Leetcode.Core.csproj">
